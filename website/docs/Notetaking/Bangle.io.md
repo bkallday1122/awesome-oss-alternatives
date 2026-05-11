@@ -14,6 +14,6 @@
 **Website**: [bangle.io](https://bangle.io/)
 
 **Description**:
-A rich note note taking web app that works on top of your locally saved Markdown files
+A rich note-taking web app that works on top of your locally saved Markdown files
 
 **Alternative to**: [Notion](https://www.notion.so/)
