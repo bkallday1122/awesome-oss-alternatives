@@ -11,7 +11,7 @@
 
 **Github**: [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr)
 
-**Website**: [dolicloud.com)](https://dolicloud.com))
+**Website**: [dolicloud.com](https://dolicloud.com)
 
 **Description**:
  Business management suite (ERP and CRM)

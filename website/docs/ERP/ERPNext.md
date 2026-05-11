@@ -11,7 +11,7 @@
 
 **Github**: [frappe/erpnext](https://github.com/frappe/erpnext)
 
-**Website**: [erpnext.com)](https://erpnext.com))
+**Website**: [erpnext.com](https://erpnext.com)
 
 **Description**:
  Agile, modern, module based Business management suite
