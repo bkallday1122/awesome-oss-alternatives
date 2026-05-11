@@ -16,4 +16,4 @@
 **Description**:
 Secure, Cross-platform, Open-Source  Markdown Note Taking App
 
-**Alternative to**: [Evernote](https://evernote.com/), [Onenote](hhttps://www.onenote.com/n), [Roam Research](https://roamresearch.com/)
+**Alternative to**: [Evernote](https://evernote.com/), [OneNote](https://www.onenote.com/n), [Roam Research](https://roamresearch.com/)
